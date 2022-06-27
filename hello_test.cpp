@@ -1,7 +1,7 @@
 #include <iostream.h>
-using namepace std;
-
+using namespace std;
 int main()
 {
-	cout<<Hello_World<<endl;
+	cout << "Hello" << endl;
+	return 0;
 }
