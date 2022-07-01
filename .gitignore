@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# hello_test.cpp
+.hello_test.cpp.swp/
