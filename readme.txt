@@ -5,3 +5,4 @@ Git tracks changes of files.
 Now,Push this git Program to Repositories.
 Modified readme.txt in Repositories.
 hongjia add a xing branch.
+Creating a new branch is quick & simple.
