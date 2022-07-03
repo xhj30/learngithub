@@ -4,5 +4,9 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Now,Push this git Program to Repositories.
 Modified readme.txt in Repositories.
+<<<<<<< HEAD
 hongjia add a xing branch.
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> dev
