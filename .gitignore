@@ -31,5 +31,15 @@
 *.out
 *.app
 
-# hello_test.cpp
-.hello_test.cpp.swp/
+# my configurations:
+ig.txt
+
+# 排除所有.开头的隐藏文件:
+.*
+# 排除所有.class文件:
+*.class
+
+# 不排除.gitignore和App.class:
+!.gitignore
+!App.class
+
